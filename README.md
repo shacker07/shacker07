@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @shacker07
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cisco Ethical Hacking
+- 👋 Hi, I’m Shahriar.
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently learning Cisco Ethical Hacking.
 - 📫 Reach me - syedshahriar2000@gmail.com
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: I'm very good at comedy...
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I'm very good at comedy.
 
 
 <!---
