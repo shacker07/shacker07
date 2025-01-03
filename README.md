@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shahriar.
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning Cisco Ethical Hacking.
-- 📫 Reach me - syedshahriar2000@gmail.com
+- 📫 Reach me - shahriar07.aiub@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm very good at comedy.
 
